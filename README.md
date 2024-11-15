@@ -1,0 +1,2 @@
+# RPS
+first Javascript assignment
