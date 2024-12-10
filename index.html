@@ -3,19 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="javascript.js"></script>
     <title>Document</title>
     <style>
         html, body {display: flex;
-             height: 100%;
-             align-items: center;
-             justify-content: center;
-             flex-direction: column;}
-    </style>
+            height: 100%;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;}
+            </style>
 </head>
 <body>
     <h1>SIMPLE CONSOLE GAME </h1>
-    <p1>Check console for results</p1>
+    <h2 class="updateScore"></h2>
+    <div id="buttonContainer">
+        <button class="ROCK">ROCK</button>
+        <button class="PAPER">PAPER</button>
+        <button class="SCISSORS">SCISSORS</button>
+    </div>
+    <div id="resultContainer">
+        <p id="displayResult">
+        </p>
+    </div>
     
+    <script src="javascript.js"></script>
 </body>
 </html>
