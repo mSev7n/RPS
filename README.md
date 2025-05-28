@@ -1,6 +1,6 @@
 # Rock Paper Scissors ✊📄✂️
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://mSev7n.github.io/rps/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://msev7n.github.io/RPS/)
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
